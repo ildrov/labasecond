@@ -1,0 +1,3 @@
+﻿  islabasec.cpp
+C:\Users\iabdi\source\repos\islabasec\islabasec\islabasec.cpp(92,12): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  islabasec.vcxproj -> C:\Users\iabdi\source\repos\islabasec\Debug\islabasec.exe
